@@ -20,8 +20,6 @@ También hago en paralelo mi formación con **Henry** que me ha aportado mucho *
 
 ## 🌱 ¿Qué Tecnologias Uso?
 
-Henry me ha permitido adquirir el conocimiento y la experiencia fundamental para comenzar en este gran mundo **Dev** con tecnologías como: 
-
 * JavaScript 
 * HTML
 * CSS
