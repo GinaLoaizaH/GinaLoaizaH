@@ -5,7 +5,7 @@ pero puedes decirme Gin
 
 ## 👀 ¿Quién Soy?
 
-Soy estudiante de **Ingeniería de Sistemas** y camino a ser **Full Stack Developer** en Henry.
+Soy estudiante de **Ingeniería de Sistemas** y  **Full Stack Developer**.
 
 Desde que tengo uso de razón me ha encantado los computadores y saber todo lo que podemos hacer con la tecnología, un mundo grande por explorar en el que
 mi autodidactismo me ha adentrado más y más en este campo tan especial como es la *Programación*.
