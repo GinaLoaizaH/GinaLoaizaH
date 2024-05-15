@@ -12,8 +12,8 @@ mi autodidactismo me ha adentrado más y más en este campo tan especial como es
 
 ## 💞️ ¿A Qué Me Dedico?
 
-Actualmente trabajo para una IPS de mi ciudad con el cargo de *Líder de Implementación y Parametrización de Software Empresarial*, debido a esta experiencia que
-llevo desde hace 2 años, decidí que me enfocaría en estudiar **Programación** y en definitiva, ha sido la mejor decisión de mi vida.
+Poseo un background trabajndo para una IPS de mi ciudad con el cargo de *Líder de Implementación y Parametrización de Software Empresarial*, debido a esta experiencia que
+me llevó 2 años de mucho aprendizaje, decidí que me enfocaría en estudiar **Programación** y en definitiva, ha sido la mejor decisión de mi vida.
 
 ## 🌱 ¿Qué Tecnologias Uso?
 
@@ -28,7 +28,7 @@ llevo desde hace 2 años, decidí que me enfocaría en estudiar **Programación*
 
 ## 📫 Contactame
 
-* [LinkedIn](https://www.linkedin.com/in/ginaloaiza/)
+* [LinkedIn](https://www.linkedin.com/in/ginaloaiza-dev/)
 * Correo: ginita011295@gmail.com
 
 
