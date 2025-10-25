@@ -5,7 +5,7 @@ pero puedes decirme Gin
 
 ## 👀 ¿Quién Soy?
 
-Soy estudiante de **Ingeniería de Sistemas** y  **Full Stack Developer**.
+**Full Stack Developer** y estudiante de **Ingeniería de Sistemas**.
 
 Desde que tengo uso de razón me ha encantado los computadores y saber todo lo que podemos hacer con la tecnología, un mundo grande por explorar en el que
 mi autodidactismo me ha adentrado más y más en este campo tan especial como es la *Programación*.
@@ -17,18 +17,21 @@ me llevó 2 años de mucho aprendizaje, decidí que me enfocaría en estudiar **
 
 ## 🌱 ¿Qué Tecnologias Uso?
 
-* JavaScript 
+* Java
+* Springboot
+* JavaScript
 * HTML
 * CSS
 * React
 * Redux
 * NodeJS
 * PostgreSQL
+* MySql
 * Sequelize
 
 ## 📫 Contactame
 
-* [LinkedIn](https://www.linkedin.com/in/ginaloaiza-dev/)
+* [LinkedIn](https://www.linkedin.com/in/ginaloaiza-backend-dev/)
 * Correo: ginita011295@gmail.com
 
 
